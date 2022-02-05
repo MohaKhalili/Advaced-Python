@@ -1,6 +1,6 @@
 # Object Oriented Programming
 
-It is an iranian course teached by a senior programmer, Jadi :D
+It is an iranian course teached by a legendary programmer, [Jadi](https://github.com/jadijadi) :D
 
 It isn't free :(
 
